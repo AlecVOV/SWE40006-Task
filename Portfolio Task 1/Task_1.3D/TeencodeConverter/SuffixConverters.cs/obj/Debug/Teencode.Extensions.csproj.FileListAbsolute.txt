@@ -1,0 +1,6 @@
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SuffixConverters.cs\bin\Debug\SuffixConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SuffixConverters.cs\bin\Debug\SuffixConverters.cs.pdb
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SuffixConverters.cs\obj\Debug\Teencode.Extensions.csproj.AssemblyReference.cache
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SuffixConverters.cs\obj\Debug\Teencode.Extensions.csproj.CoreCompileInputs.cache
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SuffixConverters.cs\obj\Debug\SuffixConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SuffixConverters.cs\obj\Debug\SuffixConverters.cs.pdb

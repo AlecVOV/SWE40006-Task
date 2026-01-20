@@ -1,0 +1,16 @@
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\bin\Debug\TeencodeConverter.exe.config
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\bin\Debug\TeencodeConverter.exe
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\bin\Debug\TeencodeConverter.pdb
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\bin\Debug\BasicConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\bin\Debug\SuffixConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\bin\Debug\SymbolConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\bin\Debug\BasicConverters.cs.pdb
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\bin\Debug\SuffixConverters.cs.pdb
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\bin\Debug\SymbolConverters.cs.pdb
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\obj\Debug\TeencodeConverter.csproj.AssemblyReference.cache
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\obj\Debug\TeencodeConverter.Properties.Resources.resources
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\obj\Debug\TeencodeConverter.csproj.GenerateResource.cache
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\obj\Debug\TeencodeConverter.csproj.CoreCompileInputs.cache
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\obj\Debug\Teencode.455747C0.Up2Date
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\obj\Debug\TeencodeConverter.exe
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\obj\Debug\TeencodeConverter.pdb

@@ -1,0 +1,20 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="ARM" />
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BasicConverters.cs/Teencode.Core.csproj" Id="8fb7984c-6790-4a1a-b660-06c5d9e57e19" />
+  <Project Path="SuffixConverters.cs/Teencode.Extensions.csproj" Id="955e22fd-42e8-46ea-b55a-0d3c7651859f" />
+  <Project Path="SymbolConverters.cs/Teencode.Special.csproj" Id="95f454f4-0ff9-47db-b8ca-705691536d67" />
+  <Project Path="TeencodeConverter/TeencodeConverter.csproj" Id="24ed283f-0270-4f2b-a519-e9fb511cdf7e" />
+  <Project Path="TeencodePackage/TeencodePackage.wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="c122d28f-a482-4c5d-a4ee-94d52b82f4ff">
+    <Deploy />
+  </Project>
+  <Project Path="TeencodeSetup/TeencodeSetup.wixproj" Id="d2849792-be9f-4ad9-b1be-96fe958f7437">
+    <Platform Project="x86" />
+    <Build />
+  </Project>
+</Solution>

@@ -1,0 +1,2 @@
+D:\Portfolio Task 1\Task_1.2C\SetupProject\bin\Debug\SetupProject.msi
+D:\Portfolio Task 1\Task_1.2C\SetupProject\bin\Debug\SetupProject.wixpdb

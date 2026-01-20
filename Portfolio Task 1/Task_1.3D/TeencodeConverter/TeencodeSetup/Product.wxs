@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+
+	<?define ProductName="Teencode Converter" ?>
+	<?define Manufacturer="LeHoangTrietThong" ?>
+	<?define UpgradeCode="0061D37F-5D0B-454F-A77A-95E0B5C72BCD" ?>
+
+	<Product Id="*" Name="$(var.ProductName)" Language="1033" Version="1.0.0.0" Manufacturer="$(var.Manufacturer)" UpgradeCode="$(var.UpgradeCode)">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Property Id="WIXUI_INSTALLDIR" Value="INSTALLFOLDER" />
+		<UIRef Id="WixUI_InstallDir" />
+		<WixVariable Id="WixUILicenseRtf" Value="license.rtf" />
+
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="$(var.ProductName)" />
+			</Directory>
+
+			<Directory Id="ProgramMenuFolder">
+				<Directory Id="ApplicationProgramsFolder" Name="$(var.ProductName)"/>
+			</Directory>
+		</Directory>
+
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+
+			<Component Id="MainApp" Guid="*">
+				<File Source="$(var.TeencodeConverter.TargetPath)" KeyPath="yes" />
+			</Component>
+
+			<Component Id="DllCore" Guid="*">
+				<File Source="$(var.Teencode.Core.TargetPath)" />
+			</Component>
+
+			<Component Id="DllSpecial" Guid="*">
+				<File Source="$(var.Teencode.Special.TargetPath)" />
+			</Component>
+
+			<Component Id="DllExtensions" Guid="*">
+				<File Source="$(var.Teencode.Extensions.TargetPath)" />
+			</Component>
+
+		</ComponentGroup>
+
+		<DirectoryRef Id="ApplicationProgramsFolder">
+			<Component Id="ApplicationShortcut" Guid="*">
+				<Shortcut Id="ApplicationStartMenuShortcut"
+						  Name="$(var.ProductName)"
+						  Description="Convert Vietnamese to Teencode"
+						  Target="[INSTALLFOLDER]TeencodeConverter.exe"
+						  WorkingDirectory="INSTALLFOLDER"/>
+				<RemoveFolder Id="CleanUpShortCut" On="uninstall"/>
+				<RegistryValue Root="HKCU" Key="Software\$(var.Manufacturer)\$(var.ProductName)" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
+			</Component>
+		</DirectoryRef>
+
+		<Feature Id="ProductFeature" Title="Teencode App" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+			<ComponentRef Id="ApplicationShortcut" />
+		</Feature>
+	</Product>
+</Wix>

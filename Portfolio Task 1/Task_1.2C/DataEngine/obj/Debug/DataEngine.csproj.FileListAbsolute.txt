@@ -1,0 +1,6 @@
+D:\Portfolio Task 1\Task_1.2C\DataEngine\bin\Debug\DataEngine.dll
+D:\Portfolio Task 1\Task_1.2C\DataEngine\bin\Debug\DataEngine.pdb
+D:\Portfolio Task 1\Task_1.2C\DataEngine\obj\Debug\DataEngine.csproj.AssemblyReference.cache
+D:\Portfolio Task 1\Task_1.2C\DataEngine\obj\Debug\DataEngine.csproj.CoreCompileInputs.cache
+D:\Portfolio Task 1\Task_1.2C\DataEngine\obj\Debug\DataEngine.dll
+D:\Portfolio Task 1\Task_1.2C\DataEngine\obj\Debug\DataEngine.pdb

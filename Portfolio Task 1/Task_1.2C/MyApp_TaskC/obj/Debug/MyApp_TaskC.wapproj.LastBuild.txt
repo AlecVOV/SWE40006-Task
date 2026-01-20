@@ -1,0 +1,13 @@
+D:\Portfolio Task 1\Task_1.2C\MyApp_TaskC\Images\SplashScreen.scale-200.png
+D:\Portfolio Task 1\Task_1.2C\MyApp_TaskC\Images\LockScreenLogo.scale-200.png
+D:\Portfolio Task 1\Task_1.2C\MyApp_TaskC\Images\Square150x150Logo.scale-200.png
+D:\Portfolio Task 1\Task_1.2C\MyApp_TaskC\Images\Square44x44Logo.scale-200.png
+D:\Portfolio Task 1\Task_1.2C\MyApp_TaskC\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Portfolio Task 1\Task_1.2C\MyApp_TaskC\Images\StoreLogo.png
+D:\Portfolio Task 1\Task_1.2C\MyApp_TaskC\Images\Wide310x150Logo.scale-200.png
+D:\Portfolio Task 1\Task_1.2C\MyApp_TaskC\bin\AnyCPU\Debug\resources.pri
+D:\Portfolio Task 1\Task_1.2C\DataEngine\bin\Debug\DataEngine.dll
+D:\Portfolio Task 1\Task_1.2C\DataEngine\bin\Debug\DataEngine.pdb
+D:\Portfolio Task 1\Task_1.2C\MyApp\bin\Debug\MyApp.exe
+D:\Portfolio Task 1\Task_1.2C\MyApp\bin\Debug\MyApp.exe.config
+D:\Portfolio Task 1\Task_1.2C\MyApp\bin\Debug\MyApp.pdb

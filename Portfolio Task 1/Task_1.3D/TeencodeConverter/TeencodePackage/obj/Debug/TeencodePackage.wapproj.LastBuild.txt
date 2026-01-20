@@ -1,0 +1,17 @@
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\Images\SplashScreen.scale-200.png
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\Images\LockScreenLogo.scale-200.png
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\Images\Square150x150Logo.scale-200.png
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\Images\Square44x44Logo.scale-200.png
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\Images\StoreLogo.png
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\Images\Wide310x150Logo.scale-200.png
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\bin\AnyCPU\Debug\resources.pri
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\BasicConverters.cs\bin\Debug\BasicConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SuffixConverters.cs\bin\Debug\SuffixConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SymbolConverters.cs\bin\Debug\SymbolConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\BasicConverters.cs\bin\Debug\BasicConverters.cs.pdb
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SuffixConverters.cs\bin\Debug\SuffixConverters.cs.pdb
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SymbolConverters.cs\bin\Debug\SymbolConverters.cs.pdb
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\bin\Debug\TeencodeConverter.exe
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\bin\Debug\TeencodeConverter.exe.config
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\bin\Debug\TeencodeConverter.pdb

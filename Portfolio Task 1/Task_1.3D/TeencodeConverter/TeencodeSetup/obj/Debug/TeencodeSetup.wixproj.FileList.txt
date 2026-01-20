@@ -1,0 +1,6 @@
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeSetup\bin\Debug\TeencodeSetup.msi
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeSetup\bin\Debug\TeencodeSetup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\TeencodeSetup.wixproj.BindContentsFileListnull.txt
+obj\Debug\TeencodeSetup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\TeencodeSetup.wixproj.BindBuiltOutputsFileListnull.txt

@@ -1,0 +1,13 @@
+D:\Portfolio Task 1\Task_1.2C\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+D:\Portfolio Task 1\Task_1.2C\MyApp\obj\Debug\MyApp.Form1.resources
+D:\Portfolio Task 1\Task_1.2C\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+D:\Portfolio Task 1\Task_1.2C\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+D:\Portfolio Task 1\Task_1.2C\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+D:\Portfolio Task 1\Task_1.2C\MyApp\bin\Debug\MyApp.exe.config
+D:\Portfolio Task 1\Task_1.2C\MyApp\bin\Debug\MyApp.exe
+D:\Portfolio Task 1\Task_1.2C\MyApp\bin\Debug\MyApp.pdb
+D:\Portfolio Task 1\Task_1.2C\MyApp\bin\Debug\DataEngine.dll
+D:\Portfolio Task 1\Task_1.2C\MyApp\bin\Debug\DataEngine.pdb
+D:\Portfolio Task 1\Task_1.2C\MyApp\obj\Debug\MyApp.csproj.Up2Date
+D:\Portfolio Task 1\Task_1.2C\MyApp\obj\Debug\MyApp.exe
+D:\Portfolio Task 1\Task_1.2C\MyApp\obj\Debug\MyApp.pdb

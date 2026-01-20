@@ -1,0 +1,6 @@
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SymbolConverters.cs\bin\Debug\SymbolConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SymbolConverters.cs\bin\Debug\SymbolConverters.cs.pdb
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SymbolConverters.cs\obj\Debug\Teencode.Special.csproj.AssemblyReference.cache
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SymbolConverters.cs\obj\Debug\Teencode.Special.csproj.CoreCompileInputs.cache
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SymbolConverters.cs\obj\Debug\SymbolConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SymbolConverters.cs\obj\Debug\SymbolConverters.cs.pdb

@@ -1,0 +1,6 @@
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\BasicConverters.cs\bin\Debug\BasicConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\BasicConverters.cs\bin\Debug\BasicConverters.cs.pdb
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\BasicConverters.cs\obj\Debug\Teencode.Core.csproj.AssemblyReference.cache
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\BasicConverters.cs\obj\Debug\Teencode.Core.csproj.CoreCompileInputs.cache
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\BasicConverters.cs\obj\Debug\BasicConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\BasicConverters.cs\obj\Debug\BasicConverters.cs.pdb

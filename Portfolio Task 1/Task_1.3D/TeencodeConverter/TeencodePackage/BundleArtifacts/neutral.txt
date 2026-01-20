@@ -1,0 +1,2 @@
+MainPackage=D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\bin\AnyCPU\Debug\TeencodePackage_1.0.0.0_AnyCPU_Debug.appx
+SymbolPackage=D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\Symbols\TeencodePackage_1.0.0.0_AnyCPU_Debug.appxsym

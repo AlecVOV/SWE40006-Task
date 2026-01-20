@@ -1,0 +1,4 @@
+D:\Study\Bachelor SUT\Year 4 - Final Unit\Spring 2026\SWE40006 - Software Deployment and Evolution\Portfolio Tasks\Portfolio Task 1\Task 1.1\code\Task_1.1P\Setup_Project\bin\Debug\Setup_Project.msi
+D:\Study\Bachelor SUT\Year 4 - Final Unit\Spring 2026\SWE40006 - Software Deployment and Evolution\Portfolio Tasks\Portfolio Task 1\Task 1.1\code\Task_1.1P\Setup_Project\bin\Debug\Setup_Project.wixpdb
+C:\Users\Admin\Desktop\Portfolio Task 1\Task 1.1\code\Task_1.1P\Setup_Project\bin\Debug\Setup_Project.msi
+C:\Users\Admin\Desktop\Portfolio Task 1\Task 1.1\code\Task_1.1P\Setup_Project\bin\Debug\Setup_Project.wixpdb

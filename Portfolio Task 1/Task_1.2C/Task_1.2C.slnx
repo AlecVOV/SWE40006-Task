@@ -1,0 +1,18 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="ARM" />
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DataEngine/DataEngine.csproj" Id="79128ffe-c0a6-4a2b-ae42-02d2ae226826" />
+  <Project Path="MyApp/MyApp.csproj" Id="1b67c907-b404-4d18-bdad-26a340a841ee" />
+  <Project Path="MyApp_TaskC/MyApp_TaskC.wapproj" Type="c7167f0d-bc9f-4e6e-afe1-012c56b48db5" Id="0cb263e4-d321-4691-a388-4bae2d7943f7">
+    <Deploy />
+  </Project>
+  <Project Path="SetupProject/SetupProject.wixproj" Id="be88b5c3-af2b-499d-8506-74c7e961bf04">
+    <Platform Project="x86" />
+    <Build />
+  </Project>
+</Solution>

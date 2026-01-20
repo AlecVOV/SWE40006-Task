@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  
+  <Product Id="*" Name="My Data Sanitizer App" Language="1033" Version="1.0.0.0" Manufacturer="SwinburneStudent" UpgradeCode="CE58AF06-88F0-4F02-8E83-3AC159B646B0">
+    
+    <Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+    <MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+    <MediaTemplate EmbedCab="yes" />
+
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="INSTALLFOLDER" Name="MyDataSanitizer" />
+      </Directory>
+    </Directory>
+
+	  <ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+
+		  <Component Id="MainApp" Guid="*">
+			  <File Id="AppEXE" Source="..\MyApp\bin\Debug\MyApp.exe" KeyPath="yes" />
+		  </Component>
+
+		  <Component Id="DataDll" Guid="*">
+			  <File Id="EngineDLL" Source="..\MyApp\bin\Debug\DataEngine.dll" />
+		  </Component>
+
+	  </ComponentGroup>
+
+    <Feature Id="ProductFeature" Title="SetupProject" Level="1">
+      <ComponentGroupRef Id="ProductComponents" />
+    </Feature>
+    
+  </Product>
+</Wix>

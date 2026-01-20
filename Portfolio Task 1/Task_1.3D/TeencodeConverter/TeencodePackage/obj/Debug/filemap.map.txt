@@ -1,0 +1,18 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\filemap.pri"			"resources.pri"
+"D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\PackageLayout\TeencodeConverter\TeencodeConverter.exe.config"			"TeencodeConverter\TeencodeConverter.exe.config"
+"D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\PackageLayout\TeencodeConverter\TeencodeConverter.exe"			"TeencodeConverter\TeencodeConverter.exe"
+"D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\PackageLayout\TeencodeConverter\SymbolConverters.cs.dll"			"TeencodeConverter\SymbolConverters.cs.dll"
+"D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\PackageLayout\TeencodeConverter\SuffixConverters.cs.dll"			"TeencodeConverter\SuffixConverters.cs.dll"
+"D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\PackageLayout\TeencodeConverter\BasicConverters.cs.dll"			"TeencodeConverter\BasicConverters.cs.dll"
+"D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\PackageLayout\Images\Wide310x150Logo.scale-200.png"			"Images\Wide310x150Logo.scale-200.png"
+"D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\PackageLayout\Images\StoreLogo.png"			"Images\StoreLogo.png"
+"D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\PackageLayout\Images\Square44x44Logo.targetsize-24_altform-unplated.png"			"Images\Square44x44Logo.targetsize-24_altform-unplated.png"
+"D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\PackageLayout\Images\Square44x44Logo.scale-200.png"			"Images\Square44x44Logo.scale-200.png"
+"D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\PackageLayout\Images\Square150x150Logo.scale-200.png"			"Images\Square150x150Logo.scale-200.png"
+"D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\PackageLayout\Images\SplashScreen.scale-200.png"			"Images\SplashScreen.scale-200.png"
+"D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodePackage\obj\Debug\PackageLayout\Images\LockScreenLogo.scale-200.png"			"Images\LockScreenLogo.scale-200.png"

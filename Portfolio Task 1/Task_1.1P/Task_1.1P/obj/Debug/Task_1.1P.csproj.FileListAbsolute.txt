@@ -1,0 +1,30 @@
+D:\Study\Bachelor SUT\Year 4 - Final Unit\Spring 2026\SWE40006 - Software Deployment and Evolution\Portfolio Tasks\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\bin\Debug\Task_1.1P.exe.config
+D:\Study\Bachelor SUT\Year 4 - Final Unit\Spring 2026\SWE40006 - Software Deployment and Evolution\Portfolio Tasks\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\bin\Debug\Task_1.1P.exe
+D:\Study\Bachelor SUT\Year 4 - Final Unit\Spring 2026\SWE40006 - Software Deployment and Evolution\Portfolio Tasks\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\bin\Debug\Task_1.1P.pdb
+D:\Study\Bachelor SUT\Year 4 - Final Unit\Spring 2026\SWE40006 - Software Deployment and Evolution\Portfolio Tasks\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.csproj.AssemblyReference.cache
+D:\Study\Bachelor SUT\Year 4 - Final Unit\Spring 2026\SWE40006 - Software Deployment and Evolution\Portfolio Tasks\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1._1P.Form1.resources
+D:\Study\Bachelor SUT\Year 4 - Final Unit\Spring 2026\SWE40006 - Software Deployment and Evolution\Portfolio Tasks\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1._1P.Properties.Resources.resources
+D:\Study\Bachelor SUT\Year 4 - Final Unit\Spring 2026\SWE40006 - Software Deployment and Evolution\Portfolio Tasks\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.csproj.GenerateResource.cache
+D:\Study\Bachelor SUT\Year 4 - Final Unit\Spring 2026\SWE40006 - Software Deployment and Evolution\Portfolio Tasks\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.csproj.CoreCompileInputs.cache
+D:\Study\Bachelor SUT\Year 4 - Final Unit\Spring 2026\SWE40006 - Software Deployment and Evolution\Portfolio Tasks\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.exe
+D:\Study\Bachelor SUT\Year 4 - Final Unit\Spring 2026\SWE40006 - Software Deployment and Evolution\Portfolio Tasks\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.pdb
+C:\Users\Admin\Desktop\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\bin\Debug\Task_1.1P.exe.config
+C:\Users\Admin\Desktop\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\bin\Debug\Task_1.1P.exe
+C:\Users\Admin\Desktop\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\bin\Debug\Task_1.1P.pdb
+C:\Users\Admin\Desktop\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1._1P.Form1.resources
+C:\Users\Admin\Desktop\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1._1P.Properties.Resources.resources
+C:\Users\Admin\Desktop\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.exe
+C:\Users\Admin\Desktop\Portfolio Task 1\Task 1.1\code\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.pdb
+D:\Test\Task_1.1P\Task_1.1P\bin\Debug\Task_1.1P.exe.config
+D:\Test\Task_1.1P\Task_1.1P\bin\Debug\Task_1.1P.exe
+D:\Test\Task_1.1P\Task_1.1P\bin\Debug\Task_1.1P.pdb
+D:\Test\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.csproj.AssemblyReference.cache
+D:\Test\Task_1.1P\Task_1.1P\obj\Debug\Task_1._1P.Form1.resources
+D:\Test\Task_1.1P\Task_1.1P\obj\Debug\Task_1._1P.Properties.Resources.resources
+D:\Test\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.csproj.GenerateResource.cache
+D:\Test\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.csproj.CoreCompileInputs.cache
+D:\Test\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.exe
+D:\Test\Task_1.1P\Task_1.1P\obj\Debug\Task_1.1P.pdb

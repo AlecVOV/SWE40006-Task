@@ -1,0 +1,4 @@
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\BasicConverters.cs\bin\Debug\BasicConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SuffixConverters.cs\bin\Debug\SuffixConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\SymbolConverters.cs\bin\Debug\SymbolConverters.cs.dll
+D:\Portfolio Task 1\Task_1.3D\TeencodeConverter\TeencodeConverter\bin\Debug\TeencodeConverter.exe

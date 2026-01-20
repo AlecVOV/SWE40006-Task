@@ -1,0 +1,2 @@
+MainPackage=D:\Portfolio Task 1\Task_1.2C\MyApp_TaskC\bin\AnyCPU\Debug\MyApp_TaskC_1.0.0.0_AnyCPU_Debug.appx
+SymbolPackage=D:\Portfolio Task 1\Task_1.2C\MyApp_TaskC\obj\Debug\Symbols\MyApp_TaskC_1.0.0.0_AnyCPU_Debug.appxsym

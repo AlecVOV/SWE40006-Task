@@ -1,0 +1,2 @@
+MainPackage=D:\Test\Task_1.1P\Task1.1_WapProj\bin\AnyCPU\Debug\Task1.1_WapProj_1.2.9.0_AnyCPU_Debug.appx
+SymbolPackage=D:\Test\Task_1.1P\Task1.1_WapProj\obj\Debug\Symbols\Task1.1_WapProj_1.2.9.0_AnyCPU_Debug.appxsym
