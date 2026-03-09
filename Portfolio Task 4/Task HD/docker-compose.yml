@@ -1,0 +1,28 @@
+version: "3.9"
+
+services:
+  monitor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: system-pulse-monitor:latest
+    container_name: system-pulse-monitor
+    restart: unless-stopped
+
+    environment:
+      INTERVAL_SECONDS: "5"
+      LOG_DIR: "/app/logs"
+
+    # Persist logs on the host so data survives container restarts
+    volumes:
+      - ./logs:/app/logs
+
+    # Resource constraints
+    deploy:
+      resources:
+        limits:
+          cpus: "0.50"
+          memory: 128M
+        reservations:
+          cpus: "0.10"
+          memory: 64M
